@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Muhammad Ali Gulzar.
 - 👀 I’m interested in learning new things everyday.
-- 🌱 I’m currently learning AWS cloud services.
+- 🌱 I’m currently learning GraphQL.
 - 💞️ I’m looking to collaborate on startup ideas.
 - 📫 You can reach me at ali.gulzar@outlook.com
